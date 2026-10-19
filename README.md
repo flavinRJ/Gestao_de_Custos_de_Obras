@@ -59,14 +59,6 @@ O painel conta com medidas dinâmicas criadas para o acompanhamento gerencial:
 
 ---
 
-## 🖼️ Visualização do Dashboard
-
-### Página 1 — Visão Executiva
-![Visão Executiva do Dashboard](C:\Users\Augusto\Projeto-1\Construção_Civil\imagens\port.jpg)
-
-### Página 2 — Análise Temporal & Detalhe de Insumos
-![Análise Temporal e Detalhe de Insumos](C:\Users\Augusto\Projeto-1\Construção_Civil\imagens/port1.jpg)
-
 ## 📬 Contato
 * **Autor:** Flávio Brandão (`flavinRJ`)
 * **LinkedIn:** [Seu Link do LinkedIn](https://linkedin.com/in/fláviodatascience)
